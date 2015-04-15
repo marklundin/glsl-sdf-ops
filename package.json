@@ -1,0 +1,25 @@
+{
+  "name": "glsl-sdf-ops",
+  "version": "0.0.0",
+  "description": "A collection of glslify compatible distance field operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marklundin/glsl-sdf-ops.git"
+  },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "sdf",
+    "webgl"
+  ],
+  "author": "Mark Lundin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklundin/glsl-sdf-ops/issues"
+  },
+  "homepage": "https://github.com/marklundin/glsl-sdf-ops"
+}
