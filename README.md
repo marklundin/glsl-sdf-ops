@@ -3,7 +3,7 @@ A collection of useful operators and modifiers for distance field equations. The
 
 Operators include `union`, `subtract`, `intersect` and modifier include `repeat`, `rotate` and `twist`.
 
-The library is compatible with[glslify](https://github.com/stackgl/glslify).
+The library is compatible with [glslify](https://github.com/stackgl/glslify).
 
 ## Usage ##
 ```
