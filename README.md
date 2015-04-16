@@ -1,5 +1,5 @@
 # Distance field operations #
-A collection of useful operators and modifiers for distance field equations. They can be used with [glsl-sdf-primitives](https://github.com/stackgl/glslify) for combining and transforming basic primitive shapes. 
+A collection of useful operators and modifiers for distance field equations from iQ's excellent [distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) page. They can be used with [glsl-sdf-primitives](https://github.com/stackgl/glslify) for combining and transforming basic primitive shapes. 
 
 Operators include `union`, `subtract`, `intersect` and modifier include `repeat`, `rotate` and `twist`.
 
@@ -33,4 +33,3 @@ vec2 doModel(vec3 p) {
 ## Ray Marching ##
 `ao`, `soft-shadow`
 
-Most of these equations are taken from iQ's excellent [distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) page.
