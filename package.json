@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/marklundin/glsl-sdf-ops/issues"
   },
-  "homepage": "https://github.com/marklundin/glsl-sdf-ops"
+  "homepage": "https://github.com/marklundin/glsl-sdf-ops",
+  "dependencies": {
+    "glsl-inverse": "^1.0.0"
+  }
 }
